@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wand" size="0.100000 0.091542" />
+    <ImageTarget name="moorishidol" size="0.100000 0.059001" />
+    <ImageTarget name="humu" size="0.100000 0.062297" />
+    <ImageTarget name="durgonTrigger" size="0.100000 0.076761" />
+    <ImageTarget name="clownfish" size="0.100000 0.047266" />
+  </Tracking>
+</QCARConfig>
