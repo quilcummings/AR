@@ -11,7 +11,7 @@ public class DurgonDisplay : MonoBehaviour
     void Update()
     {
         float dist = Vector3.Distance(target.transform.position, transform.position);
-        if (dist < 0.1)
+        if (dist < 0.3)
         {
             text.text = "Durgon Trigger";
         }
